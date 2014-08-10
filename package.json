@@ -1,6 +1,6 @@
 {
   "name": "terminal-colours",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic terminal colours",
   "main": "colours.js",
   "scripts": {
